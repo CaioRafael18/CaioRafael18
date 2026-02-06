@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Caio!
 
-Sou desenvolvedor em formação, apaixonado por tecnologia e sempre buscando aprender algo novo. Gosto de entender como as coisas funcionam por trás e estou constantemente evoluindo como profissional e pessoa.
+Sou desenvolvedor, apaixonado por tecnologia e sempre buscando aprender algo novo. Gosto de entender como as coisas funcionam por trás e estou constantemente evoluindo como profissional e pessoa.
 
-Atualmente estou cursando **Sistemas para Internet (IFPB)** e já atuei com **desenvolvimento e suporte com o ERP Protheus**, além de projetos pessoais com **Next.js, python e node**.
+Sou formado em **Sistemas para Internet (IFPB)** e já atuei com **desenvolvimento e suporte com o ERP Protheus**, além de projetos pessoais com **Next.js, python e node**.
 
 ---
 
